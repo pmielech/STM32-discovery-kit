@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Git\pod-proj\PCB_pod-proj\PCB1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb1.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=GROUND_Bot_Blind_Vias|DrillFile=pcb1.tx1|DrillLayers=gp1,gp2,gbl
+LayersSetName=PWR_Bot_Blind_Vias|DrillFile=pcb1.tx2|DrillLayers=gp2,gbl
