@@ -4,17 +4,17 @@ C:\Git\pod-proj\PCB_pod-proj\Project Outputs for PCB_pod-proj\Pick Place\Pick Pl
 ========================================================================================================================
 File Design Information:
 
-Date:       15.01.23
-Time:       22:44
-Revision:   351aa8dba3eb79c08d0905c6406ab77e7ab698c7
+Date:       16.01.23
+Time:       20:31
+Revision:   7fe171fa1fc04a07ac612bb7c660f774d7d2ca22
 Variant:    No variations
 Units used: mil
 
 Designator Comment                         Layer       Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                                                                        
 mth        "Mouting hole non plated 3.2mm" TopLayer    mounting                      1240.000      4700.000      0        ""                                                                                                 
 mth1       "Mouting hole non plated 3.2mm" TopLayer    mounting                      2800.000      4700.000      0        ""                                                                                                 
-mth3       "Mouting hole non plated 3.2mm" TopLayer    mounting                      2500.000      1580.000      0        ""                                                                                                 
-mth2       "Mouting hole non plated 3.2mm" TopLayer    mounting                      1580.000      1580.000      0        ""                                                                                                 
+mth3       "Mouting hole non plated 3.2mm" TopLayer    mounting                      2520.000      1380.000      0        ""                                                                                                 
+mth2       "Mouting hole non plated 3.2mm" TopLayer    mounting                      1580.000      1380.000      0        ""                                                                                                 
 B2         SW-PUSH-CMS                     TopLayer    SW_TL6120DF300QG              2576.000      3176.000      0        "Non-Open Push-Button 0.1A 24V"                                                                    
 B1         SW-PUSH-CMS                     TopLayer    SW_TL6120DF300QG              2143.000      1814.000      0        "Non-Open Push-Button 0.1A 24V"                                                                    
 P2         "Header 33"                     TopLayer    SAMTEC_MTSW-133-22-S-S-400    2915.000      2915.000      90       "Header, 33-Pin"                                                                                   
