@@ -5,8 +5,8 @@ C:\Git\pod-proj\PCB_pod-proj\Project Outputs for PCB_pod-proj\Pick Place\Pick Pl
 File Design Information:
 
 Date:       16.01.23
-Time:       20:31
-Revision:   7fe171fa1fc04a07ac612bb7c660f774d7d2ca22
+Time:       21:08
+Revision:   bfba9db0610db8db5be8dbe5ecdae9fb80586661
 Variant:    No variations
 Units used: mil
 
@@ -88,7 +88,7 @@ D1         BAT60JFILM                      TopLayer    SOD2613X115N             
 CN2        "Header 4"                      TopLayer    SAMTEC_TSW-104-23-F-S         1522.287      3680.000      90       "Header, 4-Pin"                                                                                    
 CN1        5075BMR-05-SM                   TopLayer    AMPHENOL_10033526-N3212LF     2010.197      4795.256      180      ""                                                                                                 
 X2         8MHz                            TopLayer    XTAL_ECS-080-20-5PX-TR        1432.000      2670.000      90       "Crystal Oscillator"                                                                               
-X1         8MHz                            BottomLayer XTAL_ECS-080-20-5PX-TR        2625.000      4025.000      270      "Crystal Oscillator"                                                                               
+X1         8MHz                            TopLayer    XTAL_ECS-080-20-5PX-TR        2625.000      4025.000      270      "Crystal Oscillator"                                                                               
 U1         LD3985M33R                      TopLayer    SOT95P280X145-5N              2394.000      4400.000      270      "Ultra low drop-low noise BiCMOS voltage, regulators low ESR capacitors compatible"                
 P1         "Header 33"                     TopLayer    SAMTEC_MTSW-133-22-S-S-400    1128.000      2914.000      90       "Header, 33-Pin"                                                                                   
 LD2        LD_BICOLOR_CMS                  TopLayer    LED_XZM2CRKM2DGFBB45SCCB      1568.882      4809.457      180      "Bicolor Led"                                                                                      
